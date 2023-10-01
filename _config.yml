@@ -59,8 +59,6 @@ highlight:
   auto_detect: false
   line_number: false
   # line_threshold: 5 # not work?
-  # wrap: true
-  # hljs: false
 
 # Category & Tag
 default_category: uncategorized
